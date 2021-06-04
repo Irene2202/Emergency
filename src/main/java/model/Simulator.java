@@ -62,7 +62,7 @@ public class Simulator {
 		this.patientsDead=0;
 		this.patientsTreated=0;
 		
-		//inietta venti input (tutti tipo ARRIVAL)
+		//inietta eventi input (tutti tipo ARRIVAL)
 		LocalTime ora=this.startTime;
 		int inseriti=0;
 		
